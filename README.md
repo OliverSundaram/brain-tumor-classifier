@@ -5,7 +5,7 @@ Here is the link to the website:
  
 ## Instructions
 
- - Open the link 
+ - Open the link
  - The website may ask you to "wake it up", this is just because it has been inactive for a while
  - Press upload, and upload an image of your choice to detect a brain tumor
  - Once uploaded, scroll down to see a prediction, with the models confidence
