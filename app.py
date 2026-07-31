@@ -48,7 +48,7 @@ st.write(
 st.warning("⚠️ Student portfolio project — NOT a diagnostic tool. Do not use for real medical decisions.")
 
 uploaded_file = st.file_uploader("Upload a brain MRI scan", type=["jpg", "jpeg", "png"])
-st.set_page_config(page_title="LLM Brain Tumor MRI Classifier")
+st.set_page_config(page_title="NN Brain Tumor MRI Classifier")
 
 if uploaded_file is not None:
     image = Image.open(uploaded_file)
